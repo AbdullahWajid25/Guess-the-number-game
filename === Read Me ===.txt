@@ -1,0 +1,9 @@
+Commands to setup your project :
+
+1. Generate tsconfig.json:
+	tsc --init
+2. Make it a Node.js project:
+	npm init -y
+3. Install types for Node.js
+	 npm i @types/node -D
+4. Create .gitignore file
